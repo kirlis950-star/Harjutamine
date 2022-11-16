@@ -1,1 +1,3 @@
 GitHub on Ameerika firma, mis pakub veebimajutusteenust tarkvaraarenduseks. Seda kasutavad programeerijad kiireteks värskenduseks
+Mina saaks kasutada veebislaidi hostina ja värskenduse hoidlana, et keegi ei pea tõmbama mingit faili oma tarkvara asjakohastamiseks.
+github asutati 2007. aastal Tom Preston-Werner poolt ja tuli kättesaadavale 2008. aastal veebuaris
